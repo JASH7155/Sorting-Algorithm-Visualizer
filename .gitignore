@@ -1,0 +1,11 @@
+backend/venv/
+backend/__pycache__/
+backend/model.pkl
+backend/benchmark_dataset.csv
+
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+.DS_Store
+Thumbs.db
